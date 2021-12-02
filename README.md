@@ -14,4 +14,4 @@ Top Android Reverse Engineering Tools with different functions.
 
 
 ## License
-*These tools do not belong to me.*
+*These tools do not belong to me. To get more information, you can read README page of each tool.*
